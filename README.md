@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chlna6666&layout=compact)](https://github.com/Chlna6666/github-readme-stats)<br>
-![Chlna6666's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chlna6666)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chlna6666&hide=javascript,html,css)  
+[blog](https://blog.chlna6666.com/)
